@@ -1,4 +1,4 @@
-# **Data Visualization Playground**
+# **EDA**
 
 ## Hotel Demand Analysis
 
